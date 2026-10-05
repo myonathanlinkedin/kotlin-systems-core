@@ -1,0 +1,12 @@
+{
+  "topic": "Why Hash Tables Collide: Swiss Tables, Robin Hood Hashing, and CPU Cache Lines",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-05T19:56:59.878415+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

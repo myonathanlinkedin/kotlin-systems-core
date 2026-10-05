@@ -1,0 +1,11 @@
+{
+  "topic": "Building a Client-Side DAG Runtime with Kahn s Algorithm",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-05T15:32:36.943397+00:00",
+  "source_file": "types.kt",
+  "files": [
+    "types.kt"
+  ]
+}

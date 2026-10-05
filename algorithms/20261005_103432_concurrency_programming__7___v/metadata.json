@@ -1,0 +1,13 @@
+{
+  "topic": "Concurrency Programming (7): volatile From Language Semantics to the CPU",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-05T10:34:32.173344+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

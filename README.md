@@ -15,7 +15,7 @@
 |---|---|---|:---:|:---:|:---:|:---:|
 | 1 | **Pavise Game - Open-source Windows game resource manager. Suppresses background processes** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_100846_pavise_game_-_open-source_wind/main.kt) |
 | 2 | **Concurrency Programming (7): volatile From Language Semantics to the CPU** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_103432_concurrency_programming__7___v/engine.kt) |
-| 3 | **Quantum Simulation on Riemannian Manifolds** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_123222_quantum_simulation_on_riemanni/core.kt) |
+| 3 | **Manifold Geometric Transformations and State Simulators** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_123222_quantum_simulation_on_riemanni/core.kt) |
 | 4 | **Building a Client-Side DAG Runtime with Kahn s Algorithm** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_153236_building_a_client-side_dag_run/types.kt) |
 | 5 | **RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_171953_railwave__adaptive_spatial_and/engine.kt) |
 | 6 | **Bytecode Virtual Machine with Stack Evaluation Engine** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_185439_bytecode_virtual_machine_with/core.kt) |
@@ -55,4 +55,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 09:58 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:45 UTC*</sub>

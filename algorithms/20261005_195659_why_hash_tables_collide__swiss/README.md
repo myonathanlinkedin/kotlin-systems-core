@@ -1,12 +1,12 @@
 # Why Hash Tables Collide: Swiss Tables, Robin Hood Hashing, and CPU Cache Lines
 
-Modern **Kotlin** reference architecture for **Why Hash Tables Collide: Swiss Tables, Robin Hood Hashing, and CPU Cache Lines**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Kotlin** implementation for **Why Hash Tables Collide: Swiss Tables, Robin Hood Hashing, and CPU Cache Lines**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Kotlin` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Concurrency & Safety**: State consistency is verified after every mutation through formal invariant validation.
+* **Runtime Overhead**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Concurrency & Safety**: State consistency is verified after mutations through assertion test coverage.
 
 ---
 
@@ -14,9 +14,9 @@ Modern **Kotlin** reference architecture for **Why Hash Tables Collide: Swiss Ta
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ kotlin main.kt
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

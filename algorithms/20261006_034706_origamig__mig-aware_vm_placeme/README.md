@@ -1,20 +1,20 @@
 # OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration (Kotlin)
 
-> A clean, dependency-free **Kotlin** implementation of **OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration**, focused on predictable latency, strict memory layout, and deterministic execution.
+> A clean, dependency-free **Kotlin** reference implementation of **OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Execution Guarantees**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Safety Invariants**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Execution Guarantees**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ kotlin types.kt
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

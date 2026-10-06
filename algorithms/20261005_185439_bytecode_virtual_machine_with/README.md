@@ -1,12 +1,12 @@
 # Bytecode Virtual Machine with Stack Evaluation Engine
 
-A clean, dependency-free **Kotlin** implementation of **Bytecode Virtual Machine with Stack Evaluation Engine**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Kotlin** reference implementation of **Bytecode Virtual Machine with Stack Evaluation Engine**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Kotlin` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ A clean, dependency-free **Kotlin** implementation of **Bytecode Virtual Machine
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ kotlin main.kt
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

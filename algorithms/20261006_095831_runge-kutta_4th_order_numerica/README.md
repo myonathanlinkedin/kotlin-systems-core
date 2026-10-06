@@ -11,8 +11,8 @@ Core **Kotlin** implementation for **Runge-Kutta 4th Order Numerical ODE Integra
 
 ## Performance Characteristics
 
-* **Time**: `$O(N)$` average, with `$O(1)$` best-case response under ideal conditions.
-* **Space**: `$O(N)$` memory usage.
+* **Time**: `O(N)` average, with `O(1)` best-case response under ideal conditions.
+* **Space**: `O(N)` memory usage.
 
 ## Test Harness
 

@@ -1,0 +1,11 @@
+{
+  "topic": "OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-06T03:47:06.790631+00:00",
+  "source_file": "types.kt",
+  "files": [
+    "types.kt"
+  ]
+}

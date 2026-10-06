@@ -1,0 +1,12 @@
+{
+  "topic": "Sorting a million rows in JavaScript, and where the time actually goes",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-06T08:35:18.447279+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

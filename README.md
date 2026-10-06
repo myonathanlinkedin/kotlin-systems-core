@@ -2,7 +2,7 @@
 > Structured concurrency with coroutines, algebraic data modeling, and clean reactive architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/kotlin-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-11%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-12%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -24,6 +24,7 @@
 | 9 | **Iroh global content discovery** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_020459_iroh_global_content_discovery/types.kt) |
 | 10 | **OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_034706_origamig__mig-aware_vm_placeme/types.kt) |
 | 11 | **Async Concurrency: Where does the scheduler live?** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_050324_async_concurrency__where_does/core.kt) |
+| 12 | **Approximating Random Walks in $\widetilde O (\log n + \log^2 )$ Space for $$-Conditioned** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075018_approximating_random_walks_in/types.kt) |
 
 ---
 
@@ -52,4 +53,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 05:03 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 07:50 UTC*</sub>

@@ -2,7 +2,7 @@
 > Structured concurrency with coroutines, algebraic data modeling, and clean reactive architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/kotlin-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-17%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-18%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -30,6 +30,7 @@
 | 15 | **Suffix Automaton for Linear-Time Substring Indexing** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_123217_suffix_automaton_for_linear-ti/core.kt) |
 | 16 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_163150_count-min_sketch_heavy_hitters/core.kt) |
 | 17 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_172451_a__heuristic_pathfinding_with/core.kt) |
+| 18 | **Hopcroft-Karp Bipartite Matching Algorithm** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_192632_hopcroft-karp_bipartite_matchi/core.kt) |
 
 ---
 
@@ -58,4 +59,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 17:25 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 19:26 UTC*</sub>

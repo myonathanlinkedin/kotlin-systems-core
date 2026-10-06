@@ -1,0 +1,12 @@
+{
+  "topic": "Async Concurrency: Where does the scheduler live?",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-06T05:03:24.945724+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

@@ -2,7 +2,7 @@
 > Structured concurrency with coroutines, algebraic data modeling, and clean reactive architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/kotlin-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-20%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -33,6 +33,7 @@
 | 18 | **Hopcroft-Karp Bipartite Matching Algorithm** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_192632_hopcroft-karp_bipartite_matchi/core.kt) |
 | 19 | **That Time I Worked With a Laptop Thief** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_220525_that_time_i_worked_with_a_lapt/core.kt) |
 | 20 | **Finite-Precision Gram-Schmidt Walks** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_030704_finite-precision_gram-schmidt/core.kt) |
+| 21 | **Optimal and Efficient Online Inverse Optimization** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_060503_optimal_and_efficient_online_i/engine.kt) |
 
 ---
 
@@ -61,4 +62,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 03:07 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 06:05 UTC*</sub>

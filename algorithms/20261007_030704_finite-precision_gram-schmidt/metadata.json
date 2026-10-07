@@ -1,0 +1,12 @@
+{
+  "topic": "Finite-Precision Gram-Schmidt Walks",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-07T03:07:04.617197+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

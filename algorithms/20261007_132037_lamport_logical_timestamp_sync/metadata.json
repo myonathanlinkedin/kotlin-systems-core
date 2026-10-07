@@ -1,0 +1,12 @@
+{
+  "topic": "Lamport Logical Timestamp Synchronization Engine",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-07T13:20:37.627350+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "Color Coding for the Sherrington-Kirkpatrick Model",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-08T07:04:33.814542+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

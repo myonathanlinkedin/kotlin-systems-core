@@ -2,7 +2,7 @@
 > Structured concurrency with coroutines, algebraic data modeling, and clean reactive architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/kotlin-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-19%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-20%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -32,6 +32,7 @@
 | 17 | **Two-Phase Commit Protocol Coordinator and Participant State Machine** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_020230_two-phase_commit_protocol_coor/engine.kt) |
 | 18 | **Hopcroft-Karp Bipartite Matching Algorithm** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_110542_hopcroft-karp_bipartite_matchi/core.kt) |
 | 19 | **Two-Phase Commit Protocol Coordinator and Participant State Machine** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_150234_two-phase_commit_protocol_coor/core.kt) |
+| 20 | **Red-Black Tree with Deterministic Balance Assertions** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_210258_red-black_tree_with_determinis/core.kt) |
 
 ---
 
@@ -60,4 +61,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 15:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 21:03 UTC*</sub>

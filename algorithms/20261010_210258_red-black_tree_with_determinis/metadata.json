@@ -1,0 +1,12 @@
+{
+  "topic": "Red-Black Tree with Deterministic Balance Assertions",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-10T21:02:58.167987+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

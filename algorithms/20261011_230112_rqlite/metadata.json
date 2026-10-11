@@ -1,0 +1,13 @@
+{
+  "topic": "Rqlite",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-11T23:01:12.037061+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

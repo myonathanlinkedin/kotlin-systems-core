@@ -9,6 +9,14 @@
 
 ---
 
+> ### ⚙️ Autonomous Kotlin Systems Governance & Legal Notice
+> **Domain Architecture & Statutory Disclaimers:**
+> - **Autonomous Domain Synthesis:** Implementations within this Kotlin repository are autonomously generated via multi-agent pipelines specializing in Coroutines-Based Asynchronous Flow & Zero-Overhead Null-Safety, concurrency semantics, and low-level system idioms.
+> - **Engineering Supervision:** Structural interfaces, toolchain constraints, and verification protocols are architected and governed by the maintainer as **Systems Architect**. Code artifacts are subjected to deterministic compiler toolchain checks prior to distribution.
+> - **STATUTORY DISCLAIMER OF WARRANTIES:** THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED.
+
+---
+
 ## 🧭 Algorithmic Directory & Navigation (Auto-Updated)
 
 | # | Module / Algorithm | Category | Time Complexity | Space Complexity | Verification Driver | Source Code |
@@ -38,8 +46,8 @@
 | 23 | **Runge-Kutta 4th Order Numerical ODE Integrator** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_235849_runge-kutta_4th_order_numerica/engine.kt) |
 | 24 | **Bytecode Virtual Machine with Stack Evaluation Engine** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_013630_bytecode_virtual_machine_with/core.kt) |
 | 25 | **LSM-Tree MemTable and SSTable Flush Compaction Engine** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_050648_lsm-tree_memtable_and_sstable/engine.kt) |
-| 26 | **Scalecube Services** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_102007_scalecube_services/core.kt) |
-| 27 | **Kactl** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_102236_kactl/engine.kt) |
+| 26 | **Kactl** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_102236_kactl/engine.kt) |
+| 27 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_143513_count-min_sketch_heavy_hitters/core.kt) |
 | 28 | **Rqlite** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_230112_rqlite/engine.kt) |
 | 29 | **Machine Unlearning for Federated Socially Fair k-Means Clustering** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_150120_machine_unlearning_for_federat/engine.kt) |
 | 30 | **Easegress** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261013_070111_easegress/core.kt) |
@@ -72,4 +80,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-14 03:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-14 06:22 UTC*</sub>

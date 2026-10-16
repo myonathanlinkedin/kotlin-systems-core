@@ -1,0 +1,12 @@
+{
+  "topic": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-16T17:01:32.793373+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

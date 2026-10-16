@@ -1,0 +1,12 @@
+{
+  "topic": "Two-Phase Commit Protocol Coordinator and Participant State Machine",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-10T15:02:34.238527+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

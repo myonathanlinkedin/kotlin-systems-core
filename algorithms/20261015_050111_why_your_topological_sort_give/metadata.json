@@ -1,0 +1,13 @@
+{
+  "topic": "Why your topological sort gives a different answer on every run",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-15T05:01:11.588270+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

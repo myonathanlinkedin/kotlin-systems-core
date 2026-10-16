@@ -1,0 +1,12 @@
+{
+  "topic": "Hopcroft-Karp Bipartite Matching Algorithm",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-10T11:05:42.430674+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

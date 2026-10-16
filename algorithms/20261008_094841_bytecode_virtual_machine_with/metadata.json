@@ -1,0 +1,12 @@
+{
+  "topic": "Bytecode Virtual Machine with Stack Evaluation Engine",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-08T09:48:41.054811+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

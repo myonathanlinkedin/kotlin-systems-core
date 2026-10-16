@@ -1,0 +1,13 @@
+{
+  "topic": "The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-09T03:07:35.400156+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "Suffix Automaton for Linear-Time Substring Indexing",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-06T12:32:17.335579+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

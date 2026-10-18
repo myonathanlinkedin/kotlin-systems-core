@@ -1,0 +1,12 @@
+{
+  "topic": "Custom Buddy Memory Allocation System",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-18T03:01:23.420073+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

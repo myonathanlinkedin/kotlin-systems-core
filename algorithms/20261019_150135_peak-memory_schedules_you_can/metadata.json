@@ -1,0 +1,12 @@
+{
+  "topic": "Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-19T15:01:35.311011+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "LSM-Tree MemTable and SSTable Flush Compaction Engine",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-10-21T13:01:24.711377+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

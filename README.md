@@ -2,7 +2,7 @@
 > Structured concurrency with coroutines, algebraic data modeling, and clean reactive architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/kotlin-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-41%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-42%20Modules-blue?style=for-the-badge&logo=kotlin)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/kotlin-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -62,6 +62,7 @@
 | 39 | **Bytecode Virtual Machine with Stack Evaluation Engine** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261022_150124_bytecode_virtual_machine_with/core.kt) |
 | 40 | **Red-Black Tree with Deterministic Balance Assertions** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261023_190136_red-black_tree_with_determinis/core.kt) |
 | 41 | **Google illegally cut down 250K trees in Finland for data center** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261024_150207_google_illegally_cut_down_250k/core.kt) |
+| 42 | **CYK Parsing Algorithm for Context-Free Grammars** | kotlin | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261025_150127_cyk_parsing_algorithm_for_cont/engine.kt) |
 
 ---
 
@@ -90,4 +91,4 @@ kotlinc main.kt -include-runtime -d app.jar && java -jar app.jar
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-24 15:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-25 15:01 UTC*</sub>

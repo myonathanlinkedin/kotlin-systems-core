@@ -1,0 +1,13 @@
+{
+  "topic": "Your AI Agent s Memory Is Not Its Source of Truth: The Hidden Risk of Stale Context",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-08T17:01:13.829059+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

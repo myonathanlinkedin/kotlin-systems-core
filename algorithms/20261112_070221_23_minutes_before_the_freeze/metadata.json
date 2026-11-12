@@ -1,0 +1,13 @@
+{
+  "topic": "23 Minutes Before the Freeze: Shortest Paths at Hackathon Raptors: Speed Demon",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-12T07:02:21.468273+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "Kildall s algorithm",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-15T05:02:50.047962+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

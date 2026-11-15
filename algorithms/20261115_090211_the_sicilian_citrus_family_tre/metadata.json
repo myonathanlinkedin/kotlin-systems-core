@@ -1,0 +1,12 @@
+{
+  "topic": "The Sicilian Citrus Family Tree",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-15T09:02:11.790408+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

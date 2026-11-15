@@ -1,0 +1,12 @@
+{
+  "topic": "Separations Between Submodular-Like Graph Widths",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-15T14:01:30.079043+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

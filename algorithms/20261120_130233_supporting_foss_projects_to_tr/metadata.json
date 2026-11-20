@@ -1,0 +1,13 @@
+{
+  "topic": "Supporting FOSS projects to transition to memory safe tech",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-20T13:02:33.550783+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}

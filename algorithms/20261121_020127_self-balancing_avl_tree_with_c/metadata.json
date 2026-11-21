@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Chronos-Topology",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-21T02:01:27.895352+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "core.kt",
+    "main.kt"
+  ]
+}

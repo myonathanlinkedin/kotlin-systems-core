@@ -1,0 +1,13 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "Kotlin",
+  "extension": ".kt",
+  "category": "kotlin",
+  "timestamp_utc": "2026-11-22T01:02:10.630984+00:00",
+  "source_file": "main.kt",
+  "files": [
+    "types.kt",
+    "engine.kt",
+    "main.kt"
+  ]
+}
